@@ -7,4 +7,12 @@ Collection of LeetCode questions i've solved thorughout college
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0007-reverse-integer/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
