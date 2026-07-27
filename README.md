@@ -6,6 +6,7 @@ Collection of LeetCode questions i've solved thorughout college
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0007-reverse-integer/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Array
@@ -21,4 +22,12 @@ Collection of LeetCode questions i've solved thorughout college
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
