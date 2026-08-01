@@ -38,4 +38,5 @@ Collection of LeetCode questions i've solved thorughout college
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
