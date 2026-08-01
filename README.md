@@ -30,4 +30,12 @@ Collection of LeetCode questions i've solved thorughout college
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
