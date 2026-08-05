@@ -12,6 +12,7 @@ Collection of LeetCode questions i've solved thorughout college
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Binary Search
@@ -39,4 +40,8 @@ Collection of LeetCode questions i've solved thorughout college
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
