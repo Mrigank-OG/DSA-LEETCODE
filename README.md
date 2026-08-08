@@ -17,6 +17,7 @@ Collection of LeetCode questions i've solved thorughout college
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions i've solved thorughout college
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +54,5 @@ Collection of LeetCode questions i've solved thorughout college
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
