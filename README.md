@@ -14,6 +14,7 @@ Collection of LeetCode questions i've solved thorughout college
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -26,6 +27,7 @@ Collection of LeetCode questions i've solved thorughout college
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
@@ -53,6 +55,7 @@ Collection of LeetCode questions i've solved thorughout college
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
