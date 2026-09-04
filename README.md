@@ -58,6 +58,7 @@ Collection of LeetCode questions i've solved thorughout college
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -80,5 +81,10 @@ Collection of LeetCode questions i've solved thorughout college
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
