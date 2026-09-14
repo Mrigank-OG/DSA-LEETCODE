@@ -19,6 +19,7 @@ Collection of LeetCode questions i've solved thorughout college
 | [0075-sort-colors](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions i've solved thorughout college
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -82,9 +84,14 @@ Collection of LeetCode questions i've solved thorughout college
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mrigank-OG/DSA-LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
